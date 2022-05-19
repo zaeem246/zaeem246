@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Zaeem Mohzar
-- 👀 I’m interested in becoming a data scientist
-- 👀 I also have expereince in Unity game development
+- 👀 Future Data Scientist
+- 👀 Full Stack Web Developer
 - 🌱 I’m currently learning Machine Learning and AI algorithms
 - 📫 How to reach me:https://www.facebook.com/zaeem.mohzar.1
 
